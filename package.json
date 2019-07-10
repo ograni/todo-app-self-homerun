@@ -42,5 +42,18 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ``` yarn install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ograni/todo-app-self-homerun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ograni/todo-app-self-homerun/issues"
+  },
+  "homepage": "https://github.com/ograni/todo-app-self-homerun#readme"
 }
